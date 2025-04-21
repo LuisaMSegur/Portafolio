@@ -20,7 +20,7 @@ export default function Header() {
         <div className="relative z-10 flex flex-col items-start justify-center h-full text-white text-center px-4 md:items-center">
         <button
         onClick={() => setIsOpen(true)}
-        className="absolute w-[50px] h-[50px] lg:w-[80px] lg:h-[80px] right-8 top-8 z-20 rounded-full shadow-md hover:shadow-lg transition duration-300 ease-in-out"
+        className="absolute w-[50px] h-[50px] lg:w-[80px] lg:h-[80px] right-8 top-8 z-20 rounded-full shadow-md hover:shadow-lg transition duration-300 ease-in-out hover:scale-110 hover:opacity-50"
       >
         <Image src="/images/esferaa.png" width={50} height={50} alt="Logo" className="lg:w-[80px] lg:h-[80px]" />
       </button>
