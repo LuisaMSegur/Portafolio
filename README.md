@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mi Portafolio
 
-## Getting Started
+¡Hola! Soy Luisa Maria Seguro, una desarrolladora web apasionada por el diseño y la creación de experiencias digitales. Este es mi portafolio donde muestro mis proyectos más recientes, habilidades y experiencia. 
 
-First, run the development server:
+## Tecnologías que manejo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+En mis proyectos utilizo diversas tecnologías para construir aplicaciones modernas y dinámicas. Aquí están algunas de las que manejo:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Proyectos
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Aquí algunos de los proyectos más destacados que he realizado:
 
-## Learn More
+### [Va Leyendo](https://blog-books-frontend.vercel.app/)
+Este proyecto es el frontend de un sitio dedicado a la literatura y la motivación, con dos secciones principales:
+Literatura: Aquí encontrarás reseñas y recomendaciones sobre libros, ideales para los amantes de la lectura y quienes buscan nuevas aventuras literarias.
+Motivación: Videos sobre inspiración, emprendimiento, recomendaciones y masterclasses, diseñados para ayudarte a crecer y mejorar tanto personal como profesionalmente.
 
-To learn more about Next.js, take a look at the following resources:
+- **Tecnologías**: HTML, CSS, React, Next.js, Tailwind y Git
+- **Enlace**: [Enlace al repositorio](https://github.com/LuisaMSegur/BlogBooks-Frontend)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### [API Fullstack- Around the world](https://www.luisadev.lat)
+Aplicación para compartir tarjetas con fotos de lugares alrededor del mundo. Los usuarios pueden crear su cuenta, editar perfil, agregar o eliminar imagenes, dar like/dislike. Con un diseño simple pero moderno.
+- **Tecnologías**: 
+Frontend:
+HTML y CSS
+JavaScript
+React
+Vite
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Backend:
+Express
+MongoDB
+Node.js
+Pruebas con Potsman
 
-## Deploy on Vercel
+Despliegue: Google Cloud
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Enlace**: [Enlace al repositorio](https://github.com/LuisaMSegur/web_project_api_full)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### [Biblioteca Triple Peaks](https://luisamsegur.github.io/web_project_library/)
+Este es uno de mis primeros proyectos en TripleTen. Es una biblioteca virtual, tiene varias seciones como staff de recomendaciones, eventos, inscripcion a membresia, etc. En un principio solo apliqué mis conocimientos sobre estructura, estilos y diseño responsivo utilizando Flexbox, Grid y media queries. Ahora, se mejoró con React y Vite.
+
+- **Tecnologías**: HTML, CSS, React, Vite.
+- **Enlace**: [Enlace al repositorio](https://github.com/LuisaMSegur/web_project_library)
+
+## Acerca de mí
+
+Soy una desarrolladora web autodidacta con formación profesional en TripleTen. Me apasiona el diseño y la creación de interfaces intuitivas y accesibles. Busco siempre aprender nuevas tecnologías y mejorar mis habilidades. Cuando no estoy programando, disfruto de actividades creativas como la acuarela y la fotografía.
+
+## Contacto
+
+Si quieres saber más sobre mi trabajo o colaborar en un proyecto, no dudes en contactarme:
+
+- 📧 **Correo electrónico**: luisamariaseguro@gmail.com
+- 🌐 **Sitio web**: [Link Portafolio](https://portafolio-mu-jade.vercel.app/)
+- 📍 **Ubicación**: [Santiago, Chile]
+
+¡Gracias por visitar mi portafolio! Espero que podamos conectar pronto. 😊
+
