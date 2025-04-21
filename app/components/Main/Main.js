@@ -36,7 +36,7 @@ Hoy quiero seguir aprendiendo con especial foco en el Desarrollo Frontend.
 <section id="projects" className="relative w-full overflow-hidden">
     <h2 className="text-4xl font-montserrat font-[900] text-blue-950 pt-8 text-center pb-8 md:text-6xl md:pb-18">Proyectos</h2>
     <ul className="flex flex-col items-center justify-center h-full w-full p-2 gap-4 pb-6 md:flex-row md:flex-wrap md:pb-24 md:mx-auto md:max-w-[768px] xl:max-w-[1280px]">
-  <a href="https://project-blog-books-frontend.vercel.app/" target="_blank" rel="noopener noreferrer" className="transition-transform hover:scale-105">
+  <a href="https://blog-books-frontend.vercel.app/" target="_blank" rel="noopener noreferrer" className="transition-transform hover:scale-105">
     <li className="flex flex-col items-center justify-center h-full w-[300px] bg-radial-corner border-2 border-blue-950 rounded-lg shadow-lg shadow-blue-950/50 hover:shadow-xl hover:shadow-indigo-500/50 hover:bg-white cursor-pointer transition duration-300">
       <h3 className="text-2xl font-sans font-[700] text-center text-indigo-800 p-6">Va Leyendo</h3>
       <div className="p-4">

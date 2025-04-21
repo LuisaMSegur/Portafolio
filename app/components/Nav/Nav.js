@@ -19,7 +19,7 @@ export default function NavModal({ isOpen, onClose }) {
           <a href="#contact" onClick={onClose} className="text-lg text-blue-900 hover:text-indigo-900 transition duration-200 font-medium border-b-2 border-blue-900 pb-2 w-full text-center pb-[24px]">
             Contacto
           </a>
-          <a href="https://drive.google.com/file/d/18qJXBM4GXbDPN6ZGpg5z3h6tk9lsr7h3/view?usp=sharing" onClick={onClose} className="text-lg text-blue-900 hover:text-indigo-900 transition duration-200 font-medium mb-[20px]">
+          <a href="https://drive.google.com/file/d/1c25MNAgDIEKuA0ZAcqPf-Kw8yzRqaOud/view?usp=sharing" onClick={onClose} className="text-lg text-blue-900 hover:text-indigo-900 transition duration-200 font-medium mb-[20px]">
             Curriculum
           </a>
         </div>
